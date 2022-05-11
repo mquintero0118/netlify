@@ -7,7 +7,7 @@
           <v-spacer> </v-spacer>
         </v-container>
         <a
-          href="https://github.com/mquintero0118/envia/tree/master"
+          href="https://github.com/mquintero0118/netlify"
           target="_blank"
           class="topText"
           >Repositorio Git</a
